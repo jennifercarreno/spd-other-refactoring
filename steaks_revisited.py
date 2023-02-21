@@ -1,3 +1,5 @@
+# DROPPED EXERCISE
+
 # by Kami Bigdely
 # Extract class
 WELL_DONE = 3000
